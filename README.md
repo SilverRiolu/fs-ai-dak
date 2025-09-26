@@ -6,7 +6,7 @@
 别担心——我们为你量身定制的《AI+数据分析》全栈万花筒系列课程正式登场！这是一套真正“从菜鸟到专家”的保姆级课程，用最接地气的方式，带你玩转数据与智能的世界。*
 
 
-![image](https://github.com/SilverRiolu/fs-ai-dak/blob/main/readme_add_pic/AI+DA2.png)
+![image](https://github.com/SilverRiolu/fs-ai-dak/blob/main/readme_add_pic/AI+DA.png)
 
 
 ## 项目受众
