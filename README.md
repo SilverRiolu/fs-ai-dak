@@ -5,6 +5,8 @@
 *嘿，朋友！是否曾看着满屏的数据头晕眼花，却不知道如何从中挖出宝藏？是否听说AI能改变世界，却总觉得它离自己太远？是否想成为企业里那个“用数据说话”的决策高手，却苦于找不到系统学习路径？
 别担心——我们为你量身定制的《AI+数据分析》全栈万花筒系列课程正式登场！这是一套真正“从菜鸟到专家”的保姆级课程，用最接地气的方式，带你玩转数据与智能的世界。*
 ![image](https://github.com/SilverRiolu/fs-ai-dak/blob/main/readme_add_pic/AI+DA2.png)
+
+
 ## 项目受众
 
 *技术提升者​：已是数据分析师、程序员，但想进阶AI+大数据领域，成为跨技能人才；*  
@@ -16,35 +18,46 @@
 *管理者与创业者​：不想被技术团队“忽悠”？自己懂数据才能做对决策。*
 
 ## 目录
-*这里写你的项目目录，已完成的部分用添加上跳转链接*
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
+
+- 第1章 数智基石篇​
+  - 1.1 数据分析本质与AI驱动变革​
+    - 1.1.1 数据分析定义：从"考古"到"预言"的蜕变
+    - 1.1.2 解决什么问题：从"知其然"到"知其所以然"再到"预知其未然"
+    - 1.1.3 核心价值三角：效率、洞察与决策的AI增强
+    - 1.1.4 AI重构分析范式：从"假设驱动"到"数据驱动"的革命性转变
+    - 1.1.5 相关案例：AI驱动数据分析的实际应用
+    - 1.1.6 总结：迈向智能化的数据分析新纪元
+  - 1.2 指标体系的科学构建
+    - 1.2.1 指标/度量定义：数据分析的"乐高积木体系"
+    - 1.2.2 有效性评估：SMART原则的AI升级版
+    - 1.2.3 北极星指标选择框架：找到你的"北斗七星"
+    - 1.2.4 AI指标推荐引擎原理：你的"指标顾问"
+    - 1.2.5 相关案例：指标体系构建实战解析
+    - 1.2.6 构建面向未来的AI增强指标体系
+  - 1.3 数据形态与AI预处理
+    - 1.3.1 结构化/非结构化数据特征：数据世界的"不同人格"
+    - 1.3.2 时空数据特性：数据世界的"时空旅行者"
+    - 1.3.3 数据质量四维度：数据的"体检标准"
+    - 1.3.4 AI数据清洗技术：数据的"美容院"
+    - 1.3.5 相关案例：数据预处理的"实战演练"
+    - 1.3.6 总结：从"原始数据"到"AI就绪"的蜕变之旅
+……
+- 第2章 ​大模型通识篇​
+- 第3章 ​AI-SQL融合篇​
+- 第4章 ​Python精析篇​
+- 第5章 ​智能体工程篇​
+- 第6章 ​BI应用突破篇​
+- 第7章 ​未来演进篇
 
 ## 贡献者名单
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| 小明 | 项目负责人 | 一个理想主义者 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+| 红星 | 项目负责人 | 前世界五百强数据分析师、Datawhale成员 |
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
 
-## 参与贡献
 
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
+
 
 ## 关注我们
 
