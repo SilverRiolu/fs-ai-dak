@@ -23,7 +23,7 @@
 
 - 第1章 数智基石篇​
   - [1.1 数据分析本质与AI驱动变革​](https://github.com/SilverRiolu/fs-ai-dak/blob/main/chapter1/1.0%20%E5%BC%80%E7%AF%87%E5%BA%8F%EF%BC%9A%E6%89%93%E5%BC%80AI%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%96%E7%95%8C.md)
-  - 1.2 指标体系的科学构建
+  - [1.2 指标体系的科学构建](https://github.com/SilverRiolu/fs-ai-dak/blob/main/chapter1/1.1%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9C%AC%E8%B4%A8%E4%B8%8EAI%E9%A9%B1%E5%8A%A8%E5%8F%98%E9%9D%A9.md)
   - 1.3 数据形态与AI预处理
   - 1.4 分析场景的AI增强模式
   - 1.5 从业者能力AI化升级
